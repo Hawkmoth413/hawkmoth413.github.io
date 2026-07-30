@@ -1,2 +1,2 @@
 # hawkmoth413.github.io
-A personal webpage. Highlights projects, interests, etc
+A personal site. Highlights projects, interests, etc.
