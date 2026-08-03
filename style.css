@@ -17,8 +17,27 @@ body {
     color:aliceblue;
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
+    
+}
+.left-side {
+    flex-grow: 7;
+    padding-left: 48px;
+}
+
+.right-side {
+    flex-grow: 1;
+    padding-right: 48px;
+}
+
+.right-side ul {
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .items {
